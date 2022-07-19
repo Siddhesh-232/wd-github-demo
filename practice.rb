@@ -41,3 +41,6 @@
 
 names = [["Jhumpa", "Lahiri"], ["J. K", "Rowling"], ["Devdutt", "Pattanaik"]]
 names.each{|x| puts names[x].join(" ")}
+
+
+#add jhali ka file bgh br siddhu
